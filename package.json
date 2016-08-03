@@ -19,7 +19,7 @@
     "mankov",
     "cards against humanity"
   ],
-  "author":  "Miro Nieminen <miro.nieminen@gmail.com>",
+  "author": "Miro Nieminen <miro.nieminen@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mankov/mankov-commander-cah/issues"
@@ -38,6 +38,7 @@
   "dependencies": {
     "bluebird": "^3.4.1",
     "lodash": "^4.13.1",
+    "mankov": "^0.2.1",
     "winston": "^2.2.0"
   },
   "directories": {
